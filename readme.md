@@ -40,7 +40,7 @@ git pull --recurse-submodules
 Pour lancer le site
 ```
 yarn
-yarn watch
+yarn dev
 ```
 
 
