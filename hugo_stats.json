@@ -1,0 +1,57 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "aside",
+      "body",
+      "div",
+      "footer",
+      "h1",
+      "head",
+      "header",
+      "html",
+      "img",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "ol",
+      "script",
+      "small",
+      "span",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "active",
+      "administrators__taxonomy",
+      "authors__taxonomy",
+      "breadcrumb",
+      "breadcrumb-item",
+      "categories",
+      "categories__taxonomy",
+      "complementary",
+      "container",
+      "content",
+      "credit",
+      "diplomas",
+      "diplomas__taxonomy",
+      "hero",
+      "logo",
+      "nav-accessibility",
+      "navbar",
+      "page__404",
+      "page__home",
+      "persons",
+      "researchers__taxonomy",
+      "sitemap__section",
+      "teachers__taxonomy",
+      "toc"
+    ],
+    "ids": [
+      "main",
+      "nav-toc"
+    ]
+  }
+}
