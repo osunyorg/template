@@ -1,3 +1,3 @@
 # Template Osuny Hugo AAA
 
-[Documentation officelle](https://developers.osuny.org)
+[Documentation officielle sur developers.osuny.org](https://developers.osuny.org)
