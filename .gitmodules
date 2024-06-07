@@ -1,3 +1,3 @@
 [submodule "themes/osuny"]
 	path = themes/osuny
-	url = https://github.com/osunyorg/theme
+	url = https://github.com/osunyorg/theme.git
