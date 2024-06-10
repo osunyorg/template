@@ -8,6 +8,6 @@
     "osuny": "./themes/osuny"
   },
   "scripts": {
-    "osuny": "npx osuny"
+    "osuny": "npx osuny-hugo-theme"
   }
 }
