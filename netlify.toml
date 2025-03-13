@@ -3,7 +3,7 @@
   command = "yarn osuny build"
 
 [build.environment]
-  HUGO_VERSION = "0.136.5"
+  HUGO_VERSION = "0.145.0"
 
 [[headers]]
   for = "/*"
