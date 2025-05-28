@@ -8,3 +8,6 @@ params:
   logo:
     header: ''
     footer: ''
+  home:
+    head:
+      title: site
